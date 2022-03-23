@@ -80,11 +80,34 @@ Being teather, I enjoy singing songs.
 1. 加It作主语：必须和天气，温度，时间有关系
 2. there be/exist/remain/seem句型，“有”
 3. 被动：作文中所有人称代词打头的句子都可以考虑写成被动
+4. ~~人称代词~~
+
+以下三种情况没有被动：
+1. 当动词的后面有介词的时候，没有被动
+2. 所有的系动词都没有被动
+3. 当"have"翻译成"有"的时候没有被动
 
 ```
+被动：
 Authorities should be proposed to adopt action.
 Confidence is claimed exceedingly crucial by an increasing amount of individuals.
+
+翻译：
+如果有梦想，就应该会成功。
+If there seems a dream, glories are supposed to be attained.
 ```
+
+#### 宾语
+
+##### 宾语的成分
+
+名词，代词，非谓语动词，从句
+
+#### 表语
+
+##### 表语的成分
+
+名词，代词，非谓语动词，从句，形容词，介词短语
 
 ## 并列句
 
