@@ -79,7 +79,12 @@ Being teather, I enjoy singing songs.
 
 1. 加It作主语：必须和天气，温度，时间有关系
 2. there be/exist/remain/seem句型，“有”
-3. 
+3. 被动：作文中所有人称代词打头的句子都可以考虑写成被动
+
+```
+Authorities should be proposed to adopt action.
+Confidence is claimed exceedingly crucial by an increasing amount of individuals.
+```
 
 ## 并列句
 
