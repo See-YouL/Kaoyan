@@ -83,11 +83,12 @@ Being teather, I enjoy singing songs.
 4. ~~人称代词~~
 
 以下三种情况没有被动：
+
 1. 当动词的后面有介词的时候，没有被动
 2. 所有的系动词都没有被动
 3. 当"have"翻译成"有"的时候没有被动
 
-```
+```none
 被动：
 Authorities should be proposed to adopt action.
 Confidence is claimed exceedingly crucial by an increasing amount of individuals.
@@ -111,7 +112,96 @@ If there seems a dream, glories are supposed to be attained.
 
 ## 并列句
 
+### 什么是并列句
+
+在两句话中间加个连词就是并列句。
+
+### 常见的连词
+
+1. 平行：and, not noly...but also
+2. 转折：but, yet, while, whereas
+3. 顺承：then
+4. 因果：for, so
+5. 选择：or
+
+### 并列句在写作中的使用
+
+写作中只要上下句之间有逻辑关系就一定要用逻辑关系词
+
+逻辑关系词:
+
+1. 平行：similarly, equally, likewise, at the same time
+2. 转折：however, nevertheless, conversely, on the contrary, unfortunately, by contrast
+3. 顺承：besides, furthermore, moreover, additionally, subsequently
+4. 因果：thus, therefore, as a result, consequently
+5. 选择：alternatively
+
+```none
+翻译：
+
+爱情已经不在了，她还在留恋过去。
+Romance has evaporated, but she still keeps the past in mind.
+Romance has evaporated. By contrast she still keeps the past in mind.
+Romance has evaporated, and by contrast she still keeps the past in mind.
+
+有朋自远方来，不亦乐乎。
+There seem a host of companies coming from a long distance, and consequently I feel
+exceedingly delighted.
+
+你还记得那天吗？我没有通过四级考试，一个人在雨中哭泣，你走过来拍拍我的肩膀，告诉我人生
+没有终点。
+Do you still keep the day in mind? I failed to past CET4. Consequently I shed teers
+alone in the rain, adn similarly, you came up to me then beat my shoudlder,
+telling me "There seems no destination in life.".
+```
+
+**连词和其他逻辑关系词的区别在于：** 连词前面有没有逗号均可，其他逻辑关系词的前面一定是句号，或者是加连词and。
+
 ## 名词
+
+### 名词在句子中能充当什么成分？
+
+1. (The movie) looks attractive. 名词做主语
+2. I appreciate his (mother). 名词做宾语。
+3. Gump is a man. 表语
+4. I enjoy the part, (the end). 同位语
+
+同位语：
+
+作文中见到名词都可以在他的后面再加一个名词作为同位语出现。
+
+```none
+Teamwork, a chinese conventional virtue, plays a crucial role on the road to glories.
+同位语：好事，中华民族传统美德；坏事，世界普遍存在现象
+```
+
+### 名词性从句
+
+#### 什么是从句？
+
+引导词加主语加谓语。
+
+#### 什么是名词性从句？
+
+1. (What I saw) is attractive. 主语从句
+2. I appreciate (what she said). 
+3. Gump is (who we should learn from).
+4. I enjoy the part (that a feather is flying in the sky).
+
+名词在句子中能充当什么成分，从句在句子中就也能充当什么成分，这就是名词性从句。
+
+名词性从句一共包括四类：主语从句，宾语从句，表语从句和同位语从句。
+
+#### 名词性从句的引导词
+
+1. (That he has got divorced) is my fault.
+2. (Whether has he got divorced) is obvious.
+3. (Who will he marry) is a secret.
+
+名词性的引导词是按照从句的类型分的类，一共把引导词分为三类。
+
+1. that: 当从句是陈述句时。并且that在从句中没有意思也不充当成分。
+2. whether: 当从句是一般疑问句时。whether在从句中依然不充当成分，但是意思可以翻译成“是否”
 
 ## 动词
 
