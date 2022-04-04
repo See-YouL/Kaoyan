@@ -195,13 +195,71 @@ Teamwork, a chinese conventional virtue, plays a crucial role on the road to glo
 #### 名词性从句的引导词
 
 1. (That he has got divorced) is my fault.
-2. (Whether has he got divorced) is obvious.
-3. (Who will he marry) is a secret.
+2. (Whether he has got divorced) is obvious.
+3. (Who he will marry) is a secret.
 
 名词性的引导词是按照从句的类型分的类，一共把引导词分为三类。
 
 1. that: 当从句是陈述句时。并且that在从句中没有意思也不充当成分。
 2. whether: 当从句是一般疑问句时。whether在从句中依然不充当成分，但是意思可以翻译成“是否”
+3. 所有的特殊疑问词：当从句是特殊疑问句时，所有的引导词都充当成分，有含义
+
+英语中所有的从句都应该是陈述句的形式,也就是引导词+主语+谓语的形式。
+
+```none
+他们为什么离开家乡去西藏是一个谜。
+Why they left the hometown for Tibet keeps a mystery.
+
+有一天你会发现，事业、亲情、友情都比爱情重要。
+Someday, one will find that career, kinship and friendship are more indispensable than romance.
+
+关键是你什么时候有钱呢？
+The point seems when wealth will become available for you.
+
+女人总是对的是一个常识。
+That ladies tend to be right proves common knowledge.
+```
+
+#### 名词性从句在写作中的使用
+
+##### 主语从句
+
+满分句型：把主语从句放到句末，加it来做形式主语。
+
+- It is(looks, becomes...) apparent that
+- It looks beyond dispute that
+- It has been widely accepted that
+- It is universally acknowledged that
+- It keeps my argument that
+
+主语从句的满分句型可以写在任何一句话的前面用于拉长句子。
+
+```none
+显而易见，改革引起了广泛的注意。
+It look beyond dispute that the issue about innovation has aroused universal attention.
+```
+
+##### 同位语从句
+
+```none
+他已经找到了一个女朋友让我们很开心
+The matter that he manages to find a girlfriend makes us delighted
+
+没有什么能够掩盖他正在变老这个事实。
+Nothing can hide the truth that he is getting old.
+
+她的丈夫去世了这个消息传遍了整个村庄。
+The news that her husband passed away was spread the whole village.
+
+温室里的花朵不能经受风雨，这个事实表明我们不应该溺爱孩子。
+The truth that flowers in the greenhouse fail to undergo storms demonstrates that kids should never be spoiled by their superiors.
+```
+
+同位语从句既可以紧跟名词，也可以放在整句话的最后。
+
+## 定语
+
+
 
 ## 动词
 
